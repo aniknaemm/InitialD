@@ -1,0 +1,11 @@
+services:
+  initiald:
+    build:
+      context: C:\Users\infinity\Desktop\InitialD
+      dockerfile: InitialD/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: initiald
+    ports:
+    - 80/tcp
+version: '3.0'

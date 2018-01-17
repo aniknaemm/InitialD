@@ -1,0 +1,11 @@
+C:\Users\infinity\Desktop\InitialD\InitialD\bin\Debug\netcoreapp2.0\InitialD.deps.json
+C:\Users\infinity\Desktop\InitialD\InitialD\bin\Debug\netcoreapp2.0\InitialD.runtimeconfig.json
+C:\Users\infinity\Desktop\InitialD\InitialD\bin\Debug\netcoreapp2.0\InitialD.runtimeconfig.dev.json
+C:\Users\infinity\Desktop\InitialD\InitialD\bin\Debug\netcoreapp2.0\InitialD.dll
+C:\Users\infinity\Desktop\InitialD\InitialD\bin\Debug\netcoreapp2.0\InitialD.pdb
+C:\Users\infinity\Desktop\InitialD\InitialD\obj\Debug\netcoreapp2.0\InitialD.csprojResolveAssemblyReference.cache
+C:\Users\infinity\Desktop\InitialD\InitialD\obj\Debug\netcoreapp2.0\InitialD.csproj.CoreCompileInputs.cache
+C:\Users\infinity\Desktop\InitialD\InitialD\obj\Debug\netcoreapp2.0\InitialD.AssemblyInfoInputs.cache
+C:\Users\infinity\Desktop\InitialD\InitialD\obj\Debug\netcoreapp2.0\InitialD.AssemblyInfo.cs
+C:\Users\infinity\Desktop\InitialD\InitialD\obj\Debug\netcoreapp2.0\InitialD.dll
+C:\Users\infinity\Desktop\InitialD\InitialD\obj\Debug\netcoreapp2.0\InitialD.pdb
